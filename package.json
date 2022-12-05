@@ -1,0 +1,11 @@
+{
+  "name": "webpack-promise-externals-bug-example",
+  "version": "1.0.0",
+  "description": "Show externals promise bug.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Matney",
+  "license": "ISC"
+}
