@@ -28,7 +28,7 @@ module.exports = {
   externalsType: "promise",
   externals: {
     react: "Promise.resolve(React)",
-    // "react-dom": "Promise.resolve(ReactDOM)",
+    "react-dom": "Promise.resolve(ReactDOM)",
     "@material-ui/core": "Promise.resolve(MaterialUI)",
   },
   devtool: "inline-source-map",
